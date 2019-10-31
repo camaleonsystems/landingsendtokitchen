@@ -1,11 +1,4 @@
-/*
-* iSOON - Ideal Coming Soon Template
-* Release Date: April 2017
-* Last Update: August 2018
-* Author: Madeon08
-* Copyright (C) 2017 Madeon08
-* This is a premium product available exclusively here : http://themeforest.net/user/Madeon08/portfolio
-*/
+
 /*  TABLE OF CONTENTS
     ---------------------------
     *. @Import (SASS) & Reset
@@ -22,25 +15,7 @@
     .. Pictures
     .. Media Queries
 */
-/* ------------------------------------- */
-/* *. @Import (SASS) & Reset ........... */
-/* ------------------------------------- */
-/*
-* iSOON - Ideal Coming Soon Template
-* Release Date: April 2017
-* Last Update: April 2017
-* Author: Madeon08
-* Copyright (C) 2017 Madeon08
-* This is a premium product available exclusively here : http://themeforest.net/user/Madeon08/portfolio
-*/
-/*
-* iSOON - Ideal Coming Soon Template
-* Release Date: April 2017
-* Last Update: April 2017
-* Author: Madeon08
-* Copyright (C) 2017 Madeon08
-* This is a premium product available exclusively here : http://themeforest.net/user/Madeon08/portfolio
-*/
+
 /* custom CSS files */
 @import url(font-awesome.min.css);
 @import url(bootstrap.min.css);
@@ -48,11 +23,7 @@
 @import url(ionicons.min.css);
 /* Google Fonts */
 @import url("http://fonts.googleapis.com/css?family=Montserrat:400,700|Lora:400,400i,700,700i|Raleway:300,400,500,700");
-/*
-* http://meyerweb.com/eric/tools/css/reset/ 
-* v2.0 | 20110126
-* License: none (public domain)
-*/
+
 html,
 body,
 div,
@@ -814,9 +785,9 @@ sup {
   }
   .brand-logo {
     position: relative;
-    top: auto;
-    left: 40px;
+   
     margin-bottom: 20px;
+    width: 70%;
   }
   .fp-section {
     height: auto !important;
@@ -858,9 +829,9 @@ sup {
   }
   .brand-logo {
     position: relative;
-    top: auto;
-    left: 40px;
+    
     margin-bottom: 20px;
+    width: 70%;
   }
   .fp-section {
     height: auto !important;
